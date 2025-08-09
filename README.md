@@ -34,4 +34,4 @@ Run:
 bash
 Copy
 Edit
-python poem_vector_db.py
+python main.py
